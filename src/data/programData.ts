@@ -141,7 +141,7 @@ export const programData: Week[] = [
     id: 'week-4',
     weekNumber: 4,
     title: 'Week 4',
-    goal: 'Longer running intervals – you're getting stronger!',
+    goal: "Longer running intervals – you're getting stronger!",
     workouts: [
       {
         id: 'w4d1',
@@ -179,7 +179,7 @@ export const programData: Week[] = [
     id: 'week-5',
     weekNumber: 5,
     title: 'Week 5',
-    goal: 'Endurance – you're halfway there!',
+    goal: "Endurance – you're halfway there!",
     workouts: [
       {
         id: 'w5d1',
@@ -263,7 +263,7 @@ export const programData: Week[] = [
     id: 'week-7',
     weekNumber: 7,
     title: 'Week 7',
-    goal: 'You're now running more than walking – well done!',
+    goal: "You're now running more than walking – well done!",
     workouts: [
       {
         id: 'w7d1',
@@ -307,7 +307,7 @@ export const programData: Week[] = [
     id: 'week-8',
     weekNumber: 8,
     title: 'Week 8',
-    goal: 'You're approaching 5 km – your body is learning to endure.',
+    goal: "You're approaching 5 km – your body is learning to endure.",
     workouts: [
       {
         id: 'w8d1',
